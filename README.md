@@ -3,10 +3,10 @@ Python based simulation of logic for digital logic circuits. Input the digital c
 
 ![](Images/LogicSim.jpg)
 
-<h4> Dependencies: </h4><br>
+<h4> Dependencies: </h4>
 itertools
 
-<h4> Usage: </h4> <br>
+<h4> Usage: </h4> 
 python3 main.py <circuit name> <input vector> <br>
 Eg:- python3 main.py s27 1101010 <br>
   Note that the digital circuit file should be placed in the same location as the script in the standart text file representation.
