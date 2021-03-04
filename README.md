@@ -4,7 +4,7 @@ Python based simulation of logic for digital logic circuits. Input the digital c
 ![](Images/LogicSim.jpg)
 
 <h4> Dependencies: </h4>
-itertools
+itertools, sys
 
 <h4> Usage: </h4> 
 python3 main.py <circuit name> <input vector> <br>
